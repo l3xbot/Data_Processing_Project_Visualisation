@@ -3,9 +3,10 @@
 As part of my AI and machine learning program, I just finished a data processing course. During the course, I worked with Python modules such as Pandas, Seaborn, and Plotly Express.
     
 For the last assignment, I analysed crime data from Chicago to answer various questions.
-    
-    
-Note: This is only a select portion of the assignment, and not the entire project (i.e. not all questions are included). In this notebook, I specifically want to showcase the data visualisation work I've done. 😁
+
+
+> [!IMPORTANT]
+> This is only a select portion of the assignment, and not the entire project (i.e. not all questions are included). In this notebook, I specifically want to showcase the data visualisation work I've done. 😁
 
 
 ◆ **Data Sources:**
@@ -18,4 +19,5 @@ Note: This is only a select portion of the assignment, and not the entire projec
 
 ------
 
-
+> [!NOTE]
+> The Plotly plot and the two interactive maps don't render in the Jupyter Notebook here on GitHub - I solved this by saving them as HTML files, which can be opened in any browser of your choice. 
