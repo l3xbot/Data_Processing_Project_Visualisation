@@ -10,8 +10,12 @@ Note: This is only a select portion of the assignment, and not the entire projec
 
 ◆ **Data Sources:**
 
-Chicago crime data: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+- Chicago crime data: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
 
-Chicago census data: https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
+- Chicago census data: https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
 
-Chicago community areas GeoJSON: https://data.cityofchicago.org/resource/igwz-8jzy.geojson
+- Chicago community areas GeoJSON: https://data.cityofchicago.org/resource/igwz-8jzy.geojson
+
+------
+
+
